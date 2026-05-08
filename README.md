@@ -59,6 +59,6 @@ Ce repository présente une vue d'ensemble de mes projets réalisés en Data Sci
 Les repositories de code sont privés pour protéger mon travail.
 
 **Pour un recruteur sérieux** : 
-📧 Contactez-moi à [lwhc01@gmail.com(mailto:lwhc01@gmail.com)]
+📧 Contactez-moi à [lwhc01@gmail.com]
 
 Je vous donnerai un accès temporaire aux repositories qui vous intéressent.
