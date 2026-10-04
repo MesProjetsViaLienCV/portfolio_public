@@ -24,7 +24,7 @@ Ce repository présente une vue d'ensemble de mes projets réalisés en Data Sci
 ### Analyse interactive du marché immobilier français (6M+ de transactions DVF)
 - **Description :** Exploration et modélisation des données foncières (DVF) pour analyser les tendances du marché français.
 - **Méthodes :** Nettoyage & traitement de données volumineuses, cartographie GPS, segmentation typologique.
-- **Outils & Modèles :** Power BI, Modélisation DAX.
+- **Outils & Modèles :** Power BI, Modélisation DAX, PostgreSQL
 
 ---
 
