@@ -21,6 +21,11 @@ Ce repository présente une vue d'ensemble de mes projets réalisés en Data Sci
 - **Méthodes :** Preprocessing de dataset, Clustering de graphes, ACP, K-means
 - **Outils & Modèles :** Régression logistique, NumPy, Pandas, Scikit-learn, Seaborn, Matplotlib
 
+### Analyse interactive du marché immobilier français (6M+ de transactions DVF)
+- **Description :** Exploration et modélisation des données foncières (DVF) pour analyser les tendances du marché français.
+- **Méthodes :** Nettoyage & traitement de données volumineuses, cartographie GPS, segmentation typologique.
+- **Outils & Modèles :** Power BI, Modélisation DAX.
+
 ---
 
 ## 📈 Fiabilité, Modélisation & Optimisation
